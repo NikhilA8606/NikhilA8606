@@ -27,7 +27,7 @@ Hi there! My name is Nikhila and I'm a front-end web developer with expertise in
             About me</h2>
         <ul>
                 <li> 👨🏻‍💻 I'm currently working on Front-End-WebDevelopment</li>
-                <li> 💬 Ask me Web Development</li>
+                <li> 💬 Ask me about Front-end Web Development</li>
                 <li> 🎓 I'm currently learning Data Analytics</li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
