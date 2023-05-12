@@ -18,7 +18,7 @@ Hi there! My name is Nikhila and I'm a front-end web developer with expertise in
             <a href="#"><img alt="Telegram"
                     src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
           
-        </div>
+        
 
 <div>
     <div>
