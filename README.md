@@ -17,11 +17,7 @@ Hi there! My name is Nikhila and I'm a front-end web developer with expertise in
                     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
             <a href="#"><img alt="Telegram"
                     src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
-                    
-                    <a href=""></a>
-                    <a href="https://www.instagram.com/ni.ki.la_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
-                    <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white®" alt=""></a><br>
-                    <br> 
+          
         </div>
 </div>
 
