@@ -64,6 +64,7 @@ Hi there! My name is Nikhila and I'm a front-end web developer with expertise in
 <p align="center">
   <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://leetcode.com/Nikhila7560/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/nikhilac"><img src="[https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black](https://img.shields.io/badge/-CodeChef-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)"></a>
   
 </p>
 
